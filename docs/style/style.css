@@ -201,7 +201,7 @@ i {
 
 /* main - visual section 시작 */
 #visual {
-  background: url("/images/mainbanner.jpg") no-repeat 50% 50% / cover;
+  background: url("../images/mainbanner.jpg") no-repeat 50% 50% / cover;
 }
 
 .visual-inner {
@@ -380,7 +380,7 @@ i {
 .aveneu-content-box {
   margin-top: 1rem;
   height: 60%;
-  background: url("/images/aveneubanner.png") no-repeat 50% 50% / cover;
+  background: url("../images/aveneubanner.png") no-repeat 50% 50% / cover;
   display: flex;
   position: relative;
 }
@@ -422,7 +422,7 @@ i {
 
 /* section3 floor 시작 */
 #floor {
-  background: url("/images/floorbanner.jpg") no-repeat 50% 50% / cover;
+  background: url("../images/floorbanner.jpg") no-repeat 50% 50% / cover;
 }
 
 .floor-inner {
@@ -555,12 +555,12 @@ i {
 }
 
 .artwork-love {
-  background: url("/images/artworklove.jpg") no-repeat 50% 50% / cover;
+  background: url("../images/artworklove.jpg") no-repeat 50% 50% / cover;
   position: relative;
 }
 
 .artwork-atlas {
-  background: url("/images/artworkatl.jpg") no-repeat 50% 50% / cover;
+  background: url("../images/artworkatl.jpg") no-repeat 50% 50% / cover;
   position: relative;
 }
 
@@ -748,11 +748,11 @@ input[type="checkbox"] {
 }
 
 .community-billncook {
-  background: url("/images/commu1.jpg") no-repeat 100% 50% / cover;
+  background: url("../images/commu1.jpg") no-repeat 100% 50% / cover;
 }
 
 .community-office {
-  background: url("/images/commu2.png") no-repeat 50% 50% / cover;
+  background: url("../images/commu2.png") no-repeat 50% 50% / cover;
 }
 
 .community-content-text,
