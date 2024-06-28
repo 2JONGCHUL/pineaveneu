@@ -913,7 +913,7 @@ input[type="checkbox"] {
 }
 
 /* 미디어쿼리 반응형 시작  */
-@media (width <= 1440px) {
+@media (width <= 1480px) {
   .community-left-title h2 {
     font-size: 4rem;
     line-height: 3.8rem;
