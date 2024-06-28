@@ -937,6 +937,10 @@ input[type="checkbox"] {
   .information-grid-box > li > p {
     font-size: 0.8rem;
   }
+  .community-left-title h2 {
+    font-size: 4rem;
+    line-height: 3.8rem;
+  }
 }
 
 @media (width <= 1024px) {
@@ -1001,7 +1005,14 @@ input[type="checkbox"] {
     display: none;
   }
 }
-
+@media (width <= 700px) {
+  .community-left-ask > p {
+    font-size: 0.7rem;
+  }
+  .ask-check-box span {
+    font-size: 0.8rem;
+  }
+}
 @media (width <= 480px) {
   .visual-text-wrap h2 {
     font-size: 3rem;
