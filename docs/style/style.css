@@ -913,16 +913,14 @@ input[type="checkbox"] {
 }
 
 /* 미디어쿼리 반응형 시작  */
-
-/* 반응형 1279픽셀 이하 */
-@media (max-width <= 1440px) {
+@media (width <= 1440px) {
   .community-left-title h2 {
     font-size: 4rem;
     line-height: 3.8rem;
   }
 }
 
-@media (max-width <= 1279px) {
+@media (width <= 1279px) {
   .header-nav {
     display: none;
   }
