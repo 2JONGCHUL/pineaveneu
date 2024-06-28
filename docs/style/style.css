@@ -623,10 +623,11 @@ i {
 
 .community-left-title h2 {
   font-weight: bold;
-  font-size: 5rem;
+  font-size: 4rem;
   color: pink;
-  line-height: 4.5rem;
+  line-height: 3.8rem;
 }
+
 .community-left-title p {
   font-weight: 400;
   font-size: 0.8rem;
@@ -914,10 +915,6 @@ input[type="checkbox"] {
 
 /* 미디어쿼리 반응형 시작  */
 @media (width <= 1480px) {
-  .community-left-title h2 {
-    font-size: 4rem;
-    line-height: 3.8rem;
-  }
 }
 
 @media (width <= 1279px) {
